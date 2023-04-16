@@ -55,12 +55,12 @@ cargoAcceptance:
 - WOOL
 cargoProduction: []
 colour: 168
-fundCostMultiplier: 15
+fundCostMultiplier: 0
 id: 15
 layout:
 - - - 0
 name: General Store
-placement: in-town
+placement: near-town
 probabilityInGame: 12
 probabilityMapGen: 24
 prospectChance: 0
