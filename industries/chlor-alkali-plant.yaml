@@ -98,10 +98,7 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance: []
-cargoProduction:
-- ACID
-- CHLO
-- LYE_
+cargoProduction: []
 colour: 191
 fundCostMultiplier: 170
 id: 7

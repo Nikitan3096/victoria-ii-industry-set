@@ -143,10 +143,9 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- ENSP
+cargoAcceptance: []
 cargoProduction:
-- LIME
+- SULP
 colour: 69
 fundCostMultiplier: 232
 id: 20
@@ -211,7 +210,7 @@ layout:
   - - 3
     - -1
     - 2
-name: Limestone Mine
+name: Sulphur Mine
 placement: anywhere
 probabilityInGame: 4
 probabilityMapGen: 7
@@ -225,7 +224,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/1.png
+      filename: industries/sulphur-mine/1.png
       left: -31
       top: -88
 - sprites:
@@ -236,7 +235,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/2.png
+      filename: industries/sulphur-mine/2.png
       left: -31
       top: -88
 - sprites:
@@ -247,7 +246,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/3.png
+      filename: industries/sulphur-mine/3.png
       left: -31
       top: -90
 - sprites:
@@ -258,7 +257,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/4.png
+      filename: industries/sulphur-mine/4.png
       left: -31
       top: -74
 - sprites:
@@ -269,7 +268,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/5.png
+      filename: industries/sulphur-mine/5.png
       left: -31
       top: -90
 - sprites:
@@ -280,7 +279,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/6.png
+      filename: industries/sulphur-mine/6.png
       left: -31
       top: -90
 - sprites:
@@ -291,7 +290,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/7.png
+      filename: industries/sulphur-mine/7.png
       left: -31
       top: -90
 - sprites:
@@ -302,7 +301,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/8.png
+      filename: industries/sulphur-mine/8.png
       left: -31
       top: -90
 - sprites:
@@ -313,7 +312,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/limestone-mine/9.png
+      filename: industries/sulphur-mine/9.png
       left: -31
       top: -90
 type: primary
