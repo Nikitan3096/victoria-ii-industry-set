@@ -99,8 +99,9 @@ callbacks: |
   }
 cargoAcceptance:
 - COAL
-cargoProduction:
 - SULP
+cargoProduction:
+- AMMO
 colour: 183
 fundCostMultiplier: 120
 id: 9
@@ -194,7 +195,7 @@ layout:
   - - 7
     - 5
     - 4
-name: Coke Oven
+name: Ammunition Factory
 placement: anywhere
 probabilityInGame: 0
 probabilityMapGen: 5
@@ -204,130 +205,130 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/2.png
+      filename: industries/ammunition-factory/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/1.png
+      filename: industries/ammunition-factory/1.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/4.png
+      filename: industries/ammunition-factory/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/3.png
+      filename: industries/ammunition-factory/3.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/6.png
+      filename: industries/ammunition-factory/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/5.png
+      filename: industries/ammunition-factory/5.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/8.png
+      filename: industries/ammunition-factory/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/7.png
+      filename: industries/ammunition-factory/7.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/10.png
+      filename: industries/ammunition-factory/10.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/9.png
+      filename: industries/ammunition-factory/9.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/12.png
+      filename: industries/ammunition-factory/12.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/11.png
+      filename: industries/ammunition-factory/11.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/14.png
+      filename: industries/ammunition-factory/14.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/13.png
+      filename: industries/ammunition-factory/13.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/16.png
+      filename: industries/ammunition-factory/16.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/15.png
+      filename: industries/ammunition-factory/15.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/18.png
+      filename: industries/ammunition-factory/18.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/17.png
+      filename: industries/ammunition-factory/17.png
       left: -31
       top: -91
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/20.png
+      filename: industries/ammunition-factory/20.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/coke-oven/19.png
+      filename: industries/ammunition-factory/19.png
       left: -31
       top: -91
 type: secondary
