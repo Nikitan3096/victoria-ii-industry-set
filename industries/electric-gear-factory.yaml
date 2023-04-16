@@ -19,8 +19,10 @@ callbacks: |
       total_produced_cargo_available integer
   }
 
-  accept_cargo_types ctt:CTAR [] 8 =
-  prod_cargo_types ctt:CBLK [] 8 =
+  accept_cargo_types ctt:CSTI [] 4 =
+  accept_cargo_types ctt:ALUM [] 2 =
+  accept_cargo_types ctt:SAND [] 2 =
+  prod_cargo_types ctt:VENG [] 6 =
 
 
   /*
@@ -95,108 +97,141 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance: []
+cargoAcceptance:
+- IROL
+- RUBB
 cargoProduction:
-- COFF
-- BRIT
-colour: 178
+- ELEC
+colour: 45
 fundCostMultiplier: 120
-id: 6
+id: 13
 layout:
-- - - 1
+- - - 2
+    - 2
+    - 2
+  - - 2
+    - 2
+    - 0
+  - - 4
+    - 4
     - 1
-    - 4
-  - - 0
-    - 0
-    - 3
-  - - 2
-    - 2
-    - -1
-- - - 0
-    - 0
-    - 1
-    - 4
-  - - 2
-    - 2
-    - 3
-    - -1
-- - - 0
-    - 0
-  - - 2
-    - 2
-  - - 1
-    - 4
   - - 3
-    - -1
-name: '[AA] Coffee Plantation'
+    - 3
+    - 6
+  - - 4
+    - 5
+    - 6
+- - - -1
+    - 0
+    - 3
+    - 3
+  - - -1
+    - 1
+    - 6
+    - 4
+  - - 2
+    - 2
+    - 5
+    - 3
+  - - 2
+    - 2
+    - 5
+    - 2
+name: Electric Gear Factory
 placement: anywhere
 probabilityInGame: 0
 probabilityMapGen: 5
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/2.png
+      filename: industries/electric-gear-factory/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/1.png
+      filename: industries/electric-gear-factory/1.png
       left: -31
-      top: -83
+      top: -39
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/4.png
+      filename: industries/electric-gear-factory/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/3.png
+      filename: industries/electric-gear-factory/3.png
       left: -31
-      top: -83
+      top: -39
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/6.png
+      filename: industries/electric-gear-factory/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/5.png
+      filename: industries/electric-gear-factory/5.png
       left: -31
-      top: -83
+      top: -39
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/8.png
+      filename: industries/electric-gear-factory/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/7.png
+      filename: industries/electric-gear-factory/7.png
       left: -31
-      top: -83
+      top: -20
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/10.png
+      filename: industries/electric-gear-factory/10.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-coffee-plantation/9.png
+      filename: industries/electric-gear-factory/9.png
       left: -31
-      top: -83
-type: primary
+      top: -20
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/electric-gear-factory/12.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/electric-gear-factory/11.png
+      left: -31
+      top: 0
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/electric-gear-factory/14.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/electric-gear-factory/13.png
+      left: -31
+      top: 0
+type: secondary
