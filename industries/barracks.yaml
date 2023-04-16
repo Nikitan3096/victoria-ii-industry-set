@@ -142,9 +142,12 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance: []
-cargoProduction:
-- SCMT
+cargoAcceptance:
+- AMMO
+- ARTY
+- FOOD
+- CNVY
+cargoProduction: []
 colour: 64
 fundCostMultiplier: 101
 id: 18
@@ -193,11 +196,11 @@ layout:
     - 7
     - 6
     - 5
-name: Scrap Yard
+name: Barracks
 placement: anywhere
 probabilityInGame: 3
 probabilityMapGen: 14
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
@@ -207,7 +210,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/1.png
+      filename: industries/barracks/1.png
       left: -31
       top: -24
 - sprites:
@@ -218,7 +221,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/2.png
+      filename: industries/barracks/2.png
       left: -31
       top: -24
 - sprites:
@@ -229,7 +232,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/3.png
+      filename: industries/barracks/3.png
       left: -31
       top: -24
 - sprites:
@@ -240,7 +243,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/4.png
+      filename: industries/barracks/4.png
       left: -31
       top: -24
 - sprites:
@@ -251,7 +254,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/5.png
+      filename: industries/barracks/5.png
       left: -31
       top: -24
 - sprites:
@@ -262,7 +265,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/6.png
+      filename: industries/barracks/6.png
       left: -31
       top: -24
 - sprites:
@@ -273,7 +276,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/7.png
+      filename: industries/barracks/7.png
       left: -31
       top: -24
 - sprites:
@@ -284,7 +287,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/8.png
+      filename: industries/barracks/8.png
       left: -31
       top: -24
 - sprites:
@@ -295,7 +298,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/9.png
+      filename: industries/barracks/9.png
       left: -31
       top: -24
-type: primary
+type: tertiary

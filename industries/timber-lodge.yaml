@@ -47,12 +47,12 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- CMNT
-- GLAS
-cargoProduction: []
+cargoAcceptance: []
+cargoProduction:
+- TIMB
+- WOOE
 colour: 169
-fundCostMultiplier: 16
+fundCostMultiplier: 151
 id: 4
 layout:
 - - - 2
@@ -71,62 +71,62 @@ layout:
     - 2
   - - 0
     - 3
-name: Builders Yard
+name: Timber Lodge
 placement: anywhere
 probabilityInGame: 6
 probabilityMapGen: 9
-prospectChance: 0
+prospectChance: 100
 tiles:
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/2.png
+      filename: industries/timber-lodge/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/1.png
+      filename: industries/timber-lodge/1.png
       left: -31
       top: -26
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/4.png
+      filename: industries/timber-lodge/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/3.png
+      filename: industries/timber-lodge/3.png
       left: -31
       top: -26
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/6.png
+      filename: industries/timber-lodge/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/5.png
+      filename: industries/timber-lodge/5.png
       left: -31
       top: -34
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/8.png
+      filename: industries/timber-lodge/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/builders-yard/7.png
+      filename: industries/timber-lodge/7.png
       left: -31
       top: -26
-type: tertiary
+type: primary
