@@ -100,8 +100,6 @@ callbacks: |
 cargoAcceptance:
 - COAL
 cargoProduction:
-- CTAR
-- COKE
 - SULP
 colour: 183
 fundCostMultiplier: 120
