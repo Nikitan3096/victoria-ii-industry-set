@@ -135,7 +135,7 @@ layout:
     - 4
     - 3
     - 8
-name: '[AA] Dye Plantation'
+name: Dye Plantation
 placement: anywhere
 probabilityInGame: 0
 probabilityMapGen: 5
@@ -145,117 +145,117 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/2.png
+      filename: industries/dye-plantation/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/1.png
+      filename: industries/dye-plantation/1.png
       left: -31
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/4.png
+      filename: industries/dye-plantation/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/3.png
+      filename: industries/dye-plantation/3.png
       left: -31
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/6.png
+      filename: industries/dye-plantation/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/5.png
+      filename: industries/dye-plantation/5.png
       left: -31
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/8.png
+      filename: industries/dye-plantation/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/7.png
+      filename: industries/dye-plantation/7.png
       left: -31
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/10.png
+      filename: industries/dye-plantation/10.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/9.png
+      filename: industries/dye-plantation/9.png
       left: -1
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/12.png
+      filename: industries/dye-plantation/12.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/11.png
+      filename: industries/dye-plantation/11.png
       left: -31
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/14.png
+      filename: industries/dye-plantation/14.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/13.png
+      filename: industries/dye-plantation/13.png
       left: -31
       top: -89
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/16.png
+      filename: industries/dye-plantation/16.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/15.png
+      filename: industries/dye-plantation/15.png
       left: -31
       top: -31
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/18.png
+      filename: industries/dye-plantation/18.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-dye-plantation/17.png
+      filename: industries/dye-plantation/17.png
       left: -31
       top: -89
 type: primary
