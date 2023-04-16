@@ -103,10 +103,7 @@ cargoAcceptance:
 - ACID
 - STCB
 - ZINC
-cargoProduction:
-- ENSP
-- PIPE
-- STSH
+cargoProduction: []
 colour: 160
 fundCostMultiplier: 120
 id: 24

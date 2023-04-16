@@ -98,9 +98,7 @@ callbacks: |
   }
 cargoAcceptance:
 - LIME
-cargoProduction:
-- FMSP
-- QLME
+cargoProduction: []
 colour: 119
 fundCostMultiplier: 45
 id: 19

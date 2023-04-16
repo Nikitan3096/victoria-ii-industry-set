@@ -143,10 +143,9 @@ callbacks: |
   cb:production_change_random def{
       result:value 0 =
   }
-cargoAcceptance:
-- ENSP
+cargoAcceptance: []
 cargoProduction:
-- IORE
+- IROL
 colour: 55
 fundCostMultiplier: 232
 id: 17
@@ -167,7 +166,7 @@ layout:
     - 4
     - 6
     - 5
-name: Iron Ore Mine
+name: Iron Mine
 placement: anywhere
 probabilityInGame: 4
 probabilityMapGen: 10
@@ -181,7 +180,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/1.png
+      filename: industries/iron-mine/1.png
       left: -31
       top: -88
 - sprites:
@@ -192,7 +191,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/2.png
+      filename: industries/iron-mine/2.png
       left: -31
       top: -88
 - sprites:
@@ -203,7 +202,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/3.png
+      filename: industries/iron-mine/3.png
       left: -31
       top: -90
 - sprites:
@@ -214,7 +213,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/4.png
+      filename: industries/iron-mine/4.png
       left: -31
       top: -74
 - sprites:
@@ -225,7 +224,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/5.png
+      filename: industries/iron-mine/5.png
       left: -31
       top: -90
 - sprites:
@@ -236,7 +235,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/6.png
+      filename: industries/iron-mine/6.png
       left: -31
       top: -90
 - sprites:
@@ -247,7 +246,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/7.png
+      filename: industries/iron-mine/7.png
       left: -31
       top: -90
 - sprites:
@@ -258,7 +257,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/8.png
+      filename: industries/iron-mine/8.png
       left: -31
       top: -90
 - sprites:
@@ -269,7 +268,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/9.png
+      filename: industries/iron-mine/9.png
       left: -31
       top: -90
 - sprites:
@@ -280,7 +279,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/iron-ore-mine/10.png
+      filename: industries/iron-mine/10.png
       left: -31
       top: -90
 type: primary
