@@ -42,7 +42,17 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- FOOD
+- CARS
+- CLOT
+- COFF
+- SOFA
+- WINE
+- OPIU
+- GOLD
+- RADO
+- BRIT
+- TOBA
+- WOOL
 cargoProduction: []
 colour: 168
 fundCostMultiplier: 15
@@ -53,7 +63,7 @@ name: General Store
 placement: in-town
 probabilityInGame: 12
 probabilityMapGen: 24
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true
