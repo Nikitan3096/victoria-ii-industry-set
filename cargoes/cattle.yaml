@@ -1,0 +1,17 @@
+abbreviation: CW
+available: true
+classes: 32
+colour: 43
+id: 13
+label: COWS
+longName: cattle
+name: Cattle
+penaltyLength: 235
+penaltyLowerBound: 20
+price: 2385
+sprite:
+  filename: cargoes/cattle.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 18

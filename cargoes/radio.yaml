@@ -1,0 +1,17 @@
+abbreviation: RD
+available: true
+classes: 32
+colour: 209
+id: 41
+label: RADO
+longName: radio
+name: Radio
+penaltyLength: 225
+penaltyLowerBound: 30
+price: 17764
+sprite:
+  filename: cargoes/radio.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

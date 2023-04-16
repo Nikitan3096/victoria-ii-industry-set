@@ -1,0 +1,17 @@
+abbreviation: CF
+available: true
+classes: 64
+colour: 55
+id: 11
+label: COFF
+longName: coffee
+name: Coffee
+penaltyLength: 40
+penaltyLowerBound: 20
+price: 2056
+sprite:
+  filename: cargoes/coffee.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

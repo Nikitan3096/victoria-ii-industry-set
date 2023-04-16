@@ -1,0 +1,17 @@
+abbreviation: LI
+available: true
+classes: 32
+colour: 143
+id: 18
+label: WINE
+longName: liquor
+name: Liquor
+penaltyLength: 121
+penaltyLowerBound: 134
+price: 6168
+sprite:
+  filename: cargoes/liquor.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

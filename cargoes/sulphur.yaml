@@ -1,6 +1,6 @@
 abbreviation: SU
 available: true
-classes: 576
+classes: 2064
 colour: 65
 id: 44
 label: SULP
@@ -8,7 +8,7 @@ longName: sulphur
 name: Sulphur
 penaltyLength: 225
 penaltyLowerBound: 30
-price: 4317
+price: 7895
 sprite:
   filename: cargoes/sulphur.png
   left: 0

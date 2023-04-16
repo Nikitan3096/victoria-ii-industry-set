@@ -1,0 +1,17 @@
+abbreviation: OP
+available: true
+classes: 32
+colour: 141
+id: 9
+label: OPIU
+longName: opium
+name: Opium
+penaltyLength: 76
+penaltyLowerBound: 0
+price: 1480
+sprite:
+  filename: cargoes/opium.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

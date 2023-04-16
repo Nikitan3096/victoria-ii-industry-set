@@ -1,0 +1,17 @@
+abbreviation: CT
+available: true
+classes: 32
+colour: 155
+id: 30
+label: CLOT
+longName: clothes
+name: Clothes
+penaltyLength: 155
+penaltyLowerBound: 100
+price: 9869
+sprite:
+  filename: cargoes/clothes.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

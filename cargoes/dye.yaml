@@ -1,0 +1,17 @@
+abbreviation: DY
+available: true
+classes: 320
+colour: 183
+id: 1
+label: DIYE
+longName: dye
+name: Dye
+penaltyLength: 42
+penaltyLowerBound: 30
+price: 4482
+sprite:
+  filename: cargoes/dye.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

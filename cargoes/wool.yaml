@@ -1,0 +1,17 @@
+abbreviation: WO
+available: true
+classes: 544
+colour: 13
+id: 27
+label: WOOL
+longName: wool
+name: Wool
+penaltyLength: 220
+penaltyLowerBound: 35
+price: 2303
+sprite:
+  filename: cargoes/wool.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

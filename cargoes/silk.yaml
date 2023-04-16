@@ -1,0 +1,17 @@
+abbreviation: SI
+available: true
+classes: 1056
+colour: 210
+id: 31
+label: SILK
+longName: silk
+name: Silk
+penaltyLength: 32
+penaltyLowerBound: 40
+price: 5921
+sprite:
+  filename: cargoes/silk.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

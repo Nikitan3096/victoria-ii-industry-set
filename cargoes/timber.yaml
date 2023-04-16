@@ -1,0 +1,17 @@
+abbreviation: TI
+available: true
+classes: 32
+colour: 63
+id: 42
+label: TIMB
+longName: timber
+name: Timber
+penaltyLength: 212
+penaltyLowerBound: 43
+price: 4729
+sprite:
+  filename: cargoes/timber.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

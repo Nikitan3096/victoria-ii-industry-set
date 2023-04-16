@@ -1,16 +1,16 @@
-abbreviation: CL
+abbreviation: LB
 available: true
 classes: 16
-colour: 7
-id: 14
-label: COAL
-longName: coal
-name: Coal
+colour: 60
+id: 15
+label: LUMB
+longName: lumber
+name: Lumber
 penaltyLength: 215
 penaltyLowerBound: 40
-price: 3619
+price: 13159
 sprite:
-  filename: cargoes/coal.png
+  filename: cargoes/lumber.png
   left: 0
   top: 0
 unitName: Tonnes

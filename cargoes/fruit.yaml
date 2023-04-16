@@ -1,0 +1,17 @@
+abbreviation: FR
+available: true
+classes: 32
+colour: 160
+id: 16
+label: FRUI
+longName: fruit
+name: Fruit
+penaltyLength: 52
+penaltyLowerBound: 0
+price: 3290
+sprite:
+  filename: cargoes/fruit.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

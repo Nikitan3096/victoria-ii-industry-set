@@ -1,0 +1,17 @@
+abbreviation: FO
+available: true
+classes: 160
+colour: 85
+id: 36
+label: FOOD
+longName: canned food
+name: Canned Food
+penaltyLength: 221
+penaltyLowerBound: 34
+price: 4934
+sprite:
+  filename: cargoes/canned-food.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

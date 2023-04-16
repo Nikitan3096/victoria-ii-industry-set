@@ -1,0 +1,17 @@
+abbreviation: FB
+available: true
+classes: 32
+colour: 51
+id: 8
+label: FABR
+longName: fabric
+name: Fabric
+penaltyLength: 241
+penaltyLowerBound: 14
+price: 13817
+sprite:
+  filename: cargoes/fabric.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

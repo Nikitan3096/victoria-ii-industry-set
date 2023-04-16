@@ -1,0 +1,17 @@
+abbreviation: ST
+available: true
+classes: 32
+colour: 125
+id: 40
+label: STEE
+longName: steel
+name: Steel
+penaltyLength: 239
+penaltyLowerBound: 16
+price: 8224
+sprite:
+  filename: cargoes/steel.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: EG
+available: true
+classes: 32
+colour: 127
+id: 17
+label: ELEC
+longName: electric gear
+name: Electric Gear
+penaltyLength: 248
+penaltyLowerBound: 7
+price: 15132
+sprite:
+  filename: cargoes/electric-gear.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: AU
+available: true
+classes: 8
+colour: 66
+id: 4
+label: GOLD
+longName: precious metals
+name: Precious Metals
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 10527
+sprite:
+  filename: cargoes/precious-metals.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

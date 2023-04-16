@@ -1,0 +1,17 @@
+abbreviation: TO
+available: true
+classes: 32
+colour: 78
+id: 50
+label: TOBA
+longName: tobacco
+name: Tobacco
+penaltyLength: 225
+penaltyLowerBound: 30
+price: 1809
+sprite:
+  filename: cargoes/tobacco.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

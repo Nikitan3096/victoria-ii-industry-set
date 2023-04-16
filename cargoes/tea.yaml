@@ -1,0 +1,17 @@
+abbreviation: TE
+available: true
+classes: 64
+colour: 59
+id: 24
+label: BRIT
+longName: tea
+name: Tea
+penaltyLength: 217
+penaltyLowerBound: 38
+price: 3002
+sprite:
+  filename: cargoes/tea.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

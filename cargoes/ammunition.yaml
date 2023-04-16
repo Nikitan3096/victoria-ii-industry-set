@@ -1,0 +1,17 @@
+abbreviation: AM
+available: true
+classes: 8
+colour: 194
+id: 28
+label: AMMO
+longName: ammunition
+name: Ammunition
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 5921
+sprite:
+  filename: cargoes/ammunition.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

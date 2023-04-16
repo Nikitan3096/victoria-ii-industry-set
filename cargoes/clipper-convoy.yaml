@@ -1,0 +1,17 @@
+abbreviation: CC
+available: true
+classes: 1056
+colour: 56
+id: 37
+label: CNVY
+longName: clipper convoy
+name: Clipper Convoy
+penaltyLength: 205
+penaltyLowerBound: 50
+price: 5921
+sprite:
+  filename: cargoes/clipper-convoy.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 32

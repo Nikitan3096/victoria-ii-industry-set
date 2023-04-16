@@ -1,16 +1,16 @@
-abbreviation: CL
+abbreviation: IR
 available: true
 classes: 16
-colour: 7
-id: 14
-label: COAL
-longName: coal
-name: Coal
+colour: 8
+id: 23
+label: IROL
+longName: iron
+name: Iron
 penaltyLength: 215
 penaltyLowerBound: 40
-price: 3619
+price: 4153
 sprite:
-  filename: cargoes/coal.png
+  filename: cargoes/iron.png
   left: 0
   top: 0
 unitName: Tonnes

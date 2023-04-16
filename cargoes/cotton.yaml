@@ -1,0 +1,17 @@
+abbreviation: CO
+available: true
+classes: 16
+colour: 13
+id: 7
+label: COTT
+longName: cotton
+name: Cotton
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 2878
+sprite:
+  filename: cargoes/cotton.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

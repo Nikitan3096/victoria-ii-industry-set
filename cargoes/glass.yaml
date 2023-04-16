@@ -8,7 +8,7 @@ longName: glass
 name: Glass
 penaltyLength: 180
 penaltyLowerBound: 12
-price: 5427
+price: 13159
 sprite:
   filename: cargoes/glass.png
   left: 0

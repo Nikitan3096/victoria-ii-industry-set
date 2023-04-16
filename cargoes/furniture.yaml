@@ -1,0 +1,17 @@
+abbreviation: FT
+available: true
+classes: 1056
+colour: 26
+id: 34
+label: SOFA
+longName: furniture
+name: Furniture
+penaltyLength: 230
+penaltyLowerBound: 25
+price: 4523
+sprite:
+  filename: cargoes/furniture.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 2

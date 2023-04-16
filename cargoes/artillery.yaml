@@ -1,0 +1,17 @@
+abbreviation: AR
+available: true
+classes: 32
+colour: 69
+id: 35
+label: ARTY
+longName: artillery
+name: Artillery
+penaltyLength: 203
+penaltyLowerBound: 52
+price: 13405
+sprite:
+  filename: cargoes/artillery.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 32

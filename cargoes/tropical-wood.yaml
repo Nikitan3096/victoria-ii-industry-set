@@ -1,0 +1,17 @@
+abbreviation: WD
+available: true
+classes: 16
+colour: 168
+id: 29
+label: WOOE
+longName: tropical wood
+name: Tropical Wood
+penaltyLength: 60
+penaltyLowerBound: 0
+price: 14187
+sprite:
+  filename: cargoes/tropical-wood.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

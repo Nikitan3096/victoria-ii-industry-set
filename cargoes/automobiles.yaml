@@ -1,0 +1,17 @@
+abbreviation: AT
+available: true
+classes: 32
+colour: 169
+id: 32
+label: CARS
+longName: automobiles
+name: Automobiles
+penaltyLength: 192
+penaltyLowerBound: 63
+price: 13282
+sprite:
+  filename: cargoes/automobiles.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 32

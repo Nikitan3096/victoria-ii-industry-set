@@ -1,14 +1,14 @@
-abbreviation: RB
+abbreviation: RU
 available: true
-classes: 64
-colour: 26
-id: 34
-label: RUBR
+classes: 320
+colour: 146
+id: 21
+label: RUBB
 longName: rubber
 name: Rubber
-penaltyLength: 36
-penaltyLowerBound: 10
-price: 4523
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 3454
 sprite:
   filename: cargoes/rubber.png
   left: 0
