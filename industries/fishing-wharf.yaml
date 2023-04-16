@@ -277,7 +277,7 @@ layout:
     - -1
     - -1
     - -1
-name: '[AA] Fishing Wharf'
+name: Fishing Wharf
 placement: on-water
 probabilityInGame: 2
 probabilityMapGen: 6
@@ -291,7 +291,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/1.png
+      filename: industries/fishing-wharf/1.png
       left: -31
       top: -8
 - sprites:
@@ -302,7 +302,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/2.png
+      filename: industries/fishing-wharf/2.png
       left: -31
       top: -8
 - sprites:
@@ -313,7 +313,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/3.png
+      filename: industries/fishing-wharf/3.png
       left: -35
       top: -61
 - sprites:
@@ -324,7 +324,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/4.png
+      filename: industries/fishing-wharf/4.png
       left: -35
       top: -15
 - sprites:
@@ -335,7 +335,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/5.png
+      filename: industries/fishing-wharf/5.png
       left: -40
       top: -12
 - sprites:
@@ -346,7 +346,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/6.png
+      filename: industries/fishing-wharf/6.png
       left: -13
       top: -19
 - sprites:
@@ -357,7 +357,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/7.png
+      filename: industries/fishing-wharf/7.png
       left: -27
       top: -12
 - sprites:
@@ -368,7 +368,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/8.png
+      filename: industries/fishing-wharf/8.png
       left: -15
       top: -11
 - sprites:
@@ -379,7 +379,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/9.png
+      filename: industries/fishing-wharf/9.png
       left: -25
       top: -20
 - sprites:
@@ -390,7 +390,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/10.png
+      filename: industries/fishing-wharf/10.png
       left: -29
       top: -5
 - sprites:
@@ -401,7 +401,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/11.png
+      filename: industries/fishing-wharf/11.png
       left: -32
       top: -21
 - sprites:
@@ -412,7 +412,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/12.png
+      filename: industries/fishing-wharf/12.png
       left: -31
       top: -61
 - sprites:
@@ -423,7 +423,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/13.png
+      filename: industries/fishing-wharf/13.png
       left: -31
       top: -61
 - sprites:
@@ -434,7 +434,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/14.png
+      filename: industries/fishing-wharf/14.png
       left: -31
       top: -61
 - sprites:
@@ -445,7 +445,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/15.png
+      filename: industries/fishing-wharf/15.png
       left: -31
       top: -61
 - sprites:
@@ -456,7 +456,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/16.png
+      filename: industries/fishing-wharf/16.png
       left: -31
       top: -61
 - sprites:
@@ -467,7 +467,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/17.png
+      filename: industries/fishing-wharf/17.png
       left: -31
       top: -8
 - sprites:
@@ -478,7 +478,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/18.png
+      filename: industries/fishing-wharf/18.png
       left: -31
       top: -61
 - sprites:
@@ -489,7 +489,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/19.png
+      filename: industries/fishing-wharf/19.png
       left: -31
       top: -61
 - sprites:
@@ -500,7 +500,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/20.png
+      filename: industries/fishing-wharf/20.png
       left: -31
       top: -61
 - sprites:
@@ -511,7 +511,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/21.png
+      filename: industries/fishing-wharf/21.png
       left: -31
       top: -61
 - sprites:
@@ -522,7 +522,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/22.png
+      filename: industries/fishing-wharf/22.png
       left: -31
       top: -61
 - sprites:
@@ -533,7 +533,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/23.png
+      filename: industries/fishing-wharf/23.png
       left: -31
       top: -61
 - sprites:
@@ -544,7 +544,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/24.png
+      filename: industries/fishing-wharf/24.png
       left: -31
       top: -61
 - sprites:
@@ -555,7 +555,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/25.png
+      filename: industries/fishing-wharf/25.png
       left: -31
       top: -61
 - sprites:
@@ -566,7 +566,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/26.png
+      filename: industries/fishing-wharf/26.png
       left: -31
       top: -61
 - sprites:
@@ -577,7 +577,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/27.png
+      filename: industries/fishing-wharf/27.png
       left: -31
       top: -61
 - sprites:
@@ -588,7 +588,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/28.png
+      filename: industries/fishing-wharf/28.png
       left: -31
       top: -61
 - sprites:
@@ -599,7 +599,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/29.png
+      filename: industries/fishing-wharf/29.png
       left: -31
       top: -61
 - sprites:
@@ -610,7 +610,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/30.png
+      filename: industries/fishing-wharf/30.png
       left: -31
       top: -61
 - sprites:
@@ -621,7 +621,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/31.png
+      filename: industries/fishing-wharf/31.png
       left: -31
       top: -61
 - sprites:
@@ -632,7 +632,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/32.png
+      filename: industries/fishing-wharf/32.png
       left: -31
       top: -61
 - sprites:
@@ -643,7 +643,7 @@ tiles:
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fishing-wharf/33.png
+      filename: industries/fishing-wharf/33.png
       left: -31
       top: -61
 type: primary

@@ -48,13 +48,8 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- GLAS
 - CMNT
-- LIME
-- PIPE
-- SAND
-- STSE
-- STWR
+- GLAS
 cargoProduction: []
 colour: 169
 fundCostMultiplier: 16
@@ -80,7 +75,7 @@ name: Builders Yard
 placement: anywhere
 probabilityInGame: 6
 probabilityMapGen: 9
-prospectChance: 75
+prospectChance: 0
 tiles:
 - sprites:
   - alwaysDraw: true

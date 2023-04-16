@@ -124,7 +124,7 @@ layout:
   - - 3
     - 4
     - 5
-name: '[AA] Fabric Factory'
+name: Fabric Factory
 placement: anywhere
 probabilityInGame: 0
 probabilityMapGen: 5
@@ -134,78 +134,78 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/2.png
+      filename: industries/fabric-factory/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/1.png
+      filename: industries/fabric-factory/1.png
       left: -31
       top: -35
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/4.png
+      filename: industries/fabric-factory/4.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/3.png
+      filename: industries/fabric-factory/3.png
       left: -31
       top: -35
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/6.png
+      filename: industries/fabric-factory/6.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/5.png
+      filename: industries/fabric-factory/5.png
       left: -31
       top: -20
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/8.png
+      filename: industries/fabric-factory/8.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/7.png
+      filename: industries/fabric-factory/7.png
       left: -31
       top: -23
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/10.png
+      filename: industries/fabric-factory/10.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/9.png
+      filename: industries/fabric-factory/9.png
       left: -31
       top: -20
 - sprites:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/12.png
+      filename: industries/fabric-factory/12.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/aa-fabric-factory/11.png
+      filename: industries/fabric-factory/11.png
       left: -31
       top: 0
 type: secondary
