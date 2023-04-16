@@ -97,8 +97,7 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance:
-- SAND
-- SASH
+- COAL
 cargoProduction:
 - GLAS
 colour: 151

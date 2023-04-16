@@ -143,8 +143,7 @@ callbacks: |
       result:value 0 =
   }
 cargoAcceptance: []
-cargoProduction:
-- O2__
+cargoProduction: []
 colour: 189
 fundCostMultiplier: 45
 id: 11
